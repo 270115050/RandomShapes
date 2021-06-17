@@ -1,0 +1,3 @@
+﻿  Shape.cpp
+C:\Users\Jay\Desktop\Test\Shape\Shape.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Shape.vcxproj -> C:\Users\Jay\Desktop\Test\Shape\Debug\Shape.exe
